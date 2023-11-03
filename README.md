@@ -1,6 +1,6 @@
 ### File_Metadata_Ratio
 
-🖩 The mathematical ratio which encapsulates three critical aspects of file metadata.
+🔢 The mathematical ratio which encapsulates three critical aspects of file metadata.
 
 #
 
@@ -50,4 +50,8 @@ Understanding and applying the triple ratio of 1:2:3 can lead to insights in pat
 
 The triple ratio 1:2:3 is a fundamental concept that finds relevance across diverse fields. Its simplicity belies its importance in establishing proportional relationships and its utility in real-world applications. Whether in educational settings, professional environments, or daily life, the ability to understand and manipulate ratios is invaluable.
 
+#
 
+Copyright (C) 2023, Sourceduty - All Rights Reserved.
+
+THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
