@@ -56,6 +56,9 @@ report_text.pack()
 # Run the GUI event loop
 root.mainloop()
 ```
+#
+
+![Preview](https://github.com/sourceduty/File_Metadata_Ratio/assets/123030236/b60a8cbc-682d-40d7-b979-39ffe0487593)
 
 #
 
