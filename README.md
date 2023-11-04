@@ -4,7 +4,7 @@
 
 #
 
-### CONCEPT
+### V1.0
 
 This Python GUI compares MP3 files in terms of bit rate, file size, and duration. This code allowed users to import Mp3 songs and generate an optimization report. It selects an optimal song based on bit rate, file size, and duration.
 
